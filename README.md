@@ -15,11 +15,11 @@
 
 	实 习 经 历
 
-16.09-至今：百度，基础架构部 前端开发，Bootstrap，AngularJS
+2016.09-至今：百度，前端开发，Bootstrap，AngularJS
 简介：重构调度资源展示系统Neptune为可扩展的PaaSWeb网站。实现门户页面和数据展示页面的数据根据xml配置文件进行扩展；后端Java代码按MVC模型标准化；用Ajax请求数据，并分页展示，加快页面加载速度；增加查询功能；用Echarts图表实现历史数据统计图表展示。
      用Bootstrap、AngularJS、Java开发调度资源展示系统NormandyScheduler的新页面和后台接口。
 
-2016.03-2016.07：百度，金融事业部 测试开发，Linux下分析日志，自学Bootstrap、Nodejs等技术
+2016.03-2016.07：百度，测试开发，Linux下分析日志，自学Bootstrap、Nodejs等技术
 简介：“百度有钱花”教育信贷postman发接口测试；“联盟贷”功能测试；“金融客服平台”功能测试。
       Linux下分析日志，定位值班时遇到的用户问题并解决；Python写信贷每日通过率监控脚本。 
      
